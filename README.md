@@ -51,7 +51,9 @@ The program can request elevation, install low-level input hooks, modify registr
 
 ## Open-source status
 
-This repository does not yet contain a license. Add a license before accepting contributions or distributing the code as open source; [OPEN_SOURCE_CHECKLIST.md](docs/OPEN_SOURCE_CHECKLIST.md) explains the remaining release steps. A license cannot be selected safely without the copyright holder's preference.
+This project is released under the [MIT License](LICENSE), Copyright (c) 2026 Subhjeet Singh. MIT permits use, modification, redistribution, and commercial use as long as the copyright and license notice are retained. See [OPEN_SOURCE_CHECKLIST.md](docs/OPEN_SOURCE_CHECKLIST.md) for the remaining release steps.
+
+Apache-2.0 is an alternative permissive license with explicit patent protection. GPL-3.0 is a copyleft alternative that requires modified and redistributed versions to remain open source; neither is applied to this repository because a project should use one primary license.
 
 ## Search and discoverability
 
