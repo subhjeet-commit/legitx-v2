@@ -1,0 +1,16 @@
+# Visual Studio and build output
+.vs/
+bin/
+obj/
+packages/
+*.user
+
+# Local codebase-analysis cache
+.codebase-memory/
+
+# Runtime diagnostics and local secrets
+LegitX_last_error.txt
+data.bin
+error_log.bin
+exit.bin
+*.log
